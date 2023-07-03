@@ -1,0 +1,15 @@
+C:\Users\DKPC2022\Desktop\C#\20_Ambiguty\obj\Debug\net7.0\20_Ambiguty.csproj.AssemblyReference.cache
+C:\Users\DKPC2022\Desktop\C#\20_Ambiguty\obj\Debug\net7.0\20_Ambiguty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DKPC2022\Desktop\C#\20_Ambiguty\obj\Debug\net7.0\20_Ambiguty.AssemblyInfoInputs.cache
+C:\Users\DKPC2022\Desktop\C#\20_Ambiguty\obj\Debug\net7.0\20_Ambiguty.AssemblyInfo.cs
+C:\Users\DKPC2022\Desktop\C#\20_Ambiguty\obj\Debug\net7.0\20_Ambiguty.csproj.CoreCompileInputs.cache
+C:\Users\DKPC2022\Desktop\C#\20_Ambiguty\bin\Debug\net7.0\20_Ambiguty.exe
+C:\Users\DKPC2022\Desktop\C#\20_Ambiguty\bin\Debug\net7.0\20_Ambiguty.deps.json
+C:\Users\DKPC2022\Desktop\C#\20_Ambiguty\bin\Debug\net7.0\20_Ambiguty.runtimeconfig.json
+C:\Users\DKPC2022\Desktop\C#\20_Ambiguty\bin\Debug\net7.0\20_Ambiguty.dll
+C:\Users\DKPC2022\Desktop\C#\20_Ambiguty\bin\Debug\net7.0\20_Ambiguty.pdb
+C:\Users\DKPC2022\Desktop\C#\20_Ambiguty\obj\Debug\net7.0\20_Ambiguty.dll
+C:\Users\DKPC2022\Desktop\C#\20_Ambiguty\obj\Debug\net7.0\refint\20_Ambiguty.dll
+C:\Users\DKPC2022\Desktop\C#\20_Ambiguty\obj\Debug\net7.0\20_Ambiguty.pdb
+C:\Users\DKPC2022\Desktop\C#\20_Ambiguty\obj\Debug\net7.0\20_Ambiguty.genruntimeconfig.cache
+C:\Users\DKPC2022\Desktop\C#\20_Ambiguty\obj\Debug\net7.0\ref\20_Ambiguty.dll
